@@ -62,7 +62,7 @@ function Body() {
 
             <footer className="footer">
                 <div className="footer-content">
-                    <p>Falling Clouds technologies pvt ltd</p>
+                    <p>Falling Clouds technologies</p>
                     <p>1-5/253 , appartment ,raidurg,Hyerabad</p>
                     <p>Email: CEO@fctsoftware.com</p>
                     <p>Phone: +1-234-567-8900</p>

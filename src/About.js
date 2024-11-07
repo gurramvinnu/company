@@ -9,7 +9,7 @@ function About() {
             <div className="about-content">
                 <div className="about-text">
                     <p>
-                        Welcome to <strong>Falling Clouds Technologies Pvt Ltd</strong>, where innovation meets reliability.
+                        Welcome to <strong>Falling Clouds technologies</strong>, where innovation meets reliability.
                         With a dedicated team of highly skilled professionals, we specialize in delivering cutting-edge
                         software solutions across multiple domains, including websites, mobile apps, and immersive game
                         development. We pride ourselves on our cost-effective approach, ensuring you receive the highest
